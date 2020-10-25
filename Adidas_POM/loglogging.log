@@ -1,0 +1,56 @@
+2020-10-25 11:40:04 INFO  HomePage:28 - this is a information log message
+2020-10-25 11:40:04 WARN  HomePage:29 - this is a warning log message
+2020-10-25 11:40:05 INFO  HomePage:69 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'DESKTOP-PC45DLR', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}), userDataDir=C:\Users\Dell\AppData\Local\Temp\scoped_dir7412_347665018}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51490}, acceptInsecureCerts=false, browserVersion=86.0.4240.111, browserName=chrome, javascriptEnabled=true, platformName=windows, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: 227e5a6bd41cfd16b4b3599dc9948de4
+2020-10-25 11:41:05 INFO  HomePage:28 - this is a information log message
+2020-10-25 11:41:05 WARN  HomePage:29 - this is a warning log message
+2020-10-25 11:41:06 INFO  HomePage:69 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'DESKTOP-PC45DLR', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}), userDataDir=C:\Users\Dell\AppData\Local\Temp\scoped_dir14252_786922672}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51517}, acceptInsecureCerts=false, browserVersion=86.0.4240.111, browserName=chrome, javascriptEnabled=true, platformName=windows, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: ff299884d85fdada39997dbb60c35f16
+2020-10-25 11:48:01 INFO  LogInOutPage:28 - this is a information log message
+2020-10-25 11:48:01 WARN  LogInOutPage:29 - this is a warning log message
+2020-10-25 11:48:02 INFO  HomePage:28 - this is a information log message
+2020-10-25 11:48:02 WARN  HomePage:29 - this is a warning log message
+2020-10-25 11:48:03 INFO  HomePage:67 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'DESKTOP-PC45DLR', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}), userDataDir=C:\Users\Dell\AppData\Local\Temp\scoped_dir3676_1736344930}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51544}, acceptInsecureCerts=false, browserVersion=86.0.4240.111, browserName=chrome, javascriptEnabled=true, platformName=windows, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: 467028cd7256d0b4776ebcc9b00c3f11
+2020-10-25 12:08:54 INFO  LogInOutPage:18 - this is a information log message
+2020-10-25 12:08:54 WARN  LogInOutPage:19 - this is a warning log message
+2020-10-25 12:08:54 INFO  HomePage:18 - this is a information log message
+2020-10-25 12:08:54 WARN  HomePage:19 - this is a warning log message
+2020-10-25 12:08:56 INFO  HomePage:67 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'DESKTOP-PC45DLR', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}), userDataDir=C:\Users\Dell\AppData\Local\Temp\scoped_dir1948_67438323}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51596}, acceptInsecureCerts=false, browserVersion=86.0.4240.111, browserName=chrome, javascriptEnabled=true, platformName=windows, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: ee35ea7fcaee8037307a861673f0a731
+2020-10-25 13:00:44 INFO  LogInOutPage:18 - this is a information log message
+2020-10-25 13:00:44 WARN  LogInOutPage:19 - this is a warning log message
+2020-10-25 13:00:44 INFO  HomePage:18 - this is a information log message
+2020-10-25 13:00:44 WARN  HomePage:19 - this is a warning log message
+2020-10-25 13:00:45 INFO  HomePage:81 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'DESKTOP-PC45DLR', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}), userDataDir=C:\Users\Dell\AppData\Local\Temp\scoped_dir4880_828258304}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:51921}, acceptInsecureCerts=false, browserVersion=86.0.4240.111, browserName=chrome, javascriptEnabled=true, platformName=windows, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: 61a7611e3fcbee9c1417697515a1f9f4
