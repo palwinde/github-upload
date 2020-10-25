@@ -1,0 +1,4 @@
+2020-10-25 12:07:35 INFO  EndPoints:19 - this is a information log message
+2020-10-25 12:07:35 WARN  EndPoints:20 - this is a warning log message
+2020-10-25 13:00:08 INFO  EndPoints:23 - this is a information log message
+2020-10-25 13:00:08 WARN  EndPoints:24 - this is a warning log message
